@@ -12,7 +12,19 @@
 
 **Computer Vision Researcher | Working on AI/ML | Developer**
 
-Sylhet, Bangladesh • [<img src="https://github.com/iftekhar-ifat/iftekhar/blob/main/public/assets/portfolio-logo.png" height="15" /> Portfolio](https://iftekhar.vercel.app/) • [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="15"/> Email](mailto:iftekharifat007@gmail.com) • [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15"/> LinkedIn](https://www.linkedin.com/in/iftekhar-ifat/)
+Sylhet, Bangladesh • 
+<a href="https://iftekhar.vercel.app/">
+  <img src="https://github.com/iftekhar-ifat/iftekhar/blob/main/public/assets/portfolio-logo.png" height="15" style="vertical-align:middle; margin-right:4px;" />
+  Portfolio
+</a> • 
+<a href="mailto:iftekharifat007@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" height="15" style="vertical-align:middle; margin-right:4px;" />
+  Email
+</a> • 
+<a href="https://www.linkedin.com/in/iftekhar-ifat/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" style="vertical-align:middle; margin-right:4px;" />
+  LinkedIn
+</a>
 
 </div>
 
