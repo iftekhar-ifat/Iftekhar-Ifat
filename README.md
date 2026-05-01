@@ -14,15 +14,15 @@
 
 Sylhet, Bangladesh • 
 <a href="https://iftekhar.vercel.app/">
-  <img src="https://github.com/iftekhar-ifat/iftekhar/blob/main/public/assets/portfolio-logo.png" height="15" style="vertical-align:middle; margin-right:4px;" />
+  <img src="https://github.com/iftekhar-ifat/iftekhar/blob/main/public/assets/portfolio-logo.png" height="16" style="vertical-align:middle; text-item:center; margin-right:4px;" />
   Portfolio
 </a> • 
 <a href="mailto:iftekharifat007@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" height="15" style="vertical-align:middle; margin-right:4px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" height="11" style="vertical-align:middle; margin-right:4px;" />
   Email
 </a> • 
 <a href="https://www.linkedin.com/in/iftekhar-ifat/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" style="vertical-align:middle; margin-right:4px;" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="14" style="vertical-align:middle; margin-right:4px;" />
   LinkedIn
 </a>
 
