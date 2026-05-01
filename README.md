@@ -32,7 +32,7 @@ LinkedIn
 
 ## About Me
 
-I'm an aspiring AI researcher working in computer vision, currently exploring **vision-language models**, **vision-language-action systems**, and _agentic AI_. I also enjoy building tools and software—mostly things I find useful, but sometimes things others do too. I'm always open to interesting software projects and research collaborations.
+I'm an aspiring AI researcher working in computer vision, currently exploring **Vision-language models (VLMs)**, **Vision-Language-Action (VLAs) systems**, and **Agentic AI**. I also enjoy building tools and software—mostly things I find useful, but sometimes things others do too. I'm always open to interesting software projects and research collaborations.
 
 ---
 
