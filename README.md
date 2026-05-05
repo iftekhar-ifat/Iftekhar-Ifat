@@ -32,7 +32,7 @@ LinkedIn
 
 ## About Me
 
-Hello 👋 I am Iftekhar, an aspiring AI researcher working with [CCDS](https://ccds.ai/) and [InteX](https://www.intexlab.net/). My research interests lie in **computer vision**. I am currently exploring **Vision-Language Models (VLMs)**, **Vision-Language-Action (VLA) systems**, and **Agentic AI**. I also enjoy building tools and software—mostly things I find useful and sometimes other things too. I'm always open to research collaborations and interesting software projects.
+Hello 👋 I am Iftekhar, an aspiring AI researcher working with [CCDS](https://ccds.ai/) and [InteX](https://www.intexlab.net/). My research interests lie in **computer vision**. I am currently exploring **Vision-Language Models (VLMs)**, **Vision-Language-Action (VLA) systems**, and **Agentic AI**. I enjoy building tools and software—mostly things I find genuinely useful, but also ideas that simply interest me. I'm always open to research collaborations and exciting software projects.
 
 ---
 
