@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**Computer Vision Researcher | Working on AI/ML | Developer**
+**AI Engineer | Full Stack Developer | Working on LLM/VLM applications**
 
 Sylhet, Bangladesh •
 <a href="https://iftekhar.vercel.app/">
