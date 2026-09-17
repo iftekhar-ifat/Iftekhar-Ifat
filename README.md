@@ -32,7 +32,8 @@ LinkedIn
 
 ## About Me
 
-Hello 👋 I am Iftekhar, an aspiring AI researcher studying my **master's at the University of Helsinki in Data Science** and working with [CCDS](https://ccds.ai/) and [InteX](https://www.intexlab.net/). My research interests lie in **computer vision**. I am currently exploring **Vision-Language Models (VLMs)**, **Vision-Language-Action (VLA) systems**, and **Agentic AI**. I enjoy building tools and software—mostly things I find genuinely useful, but also ideas that simply interest me. I'm always open to research collaborations and exciting software projects.
+Hello 👋 I am Iftekhar, an **AI engineer** and **Data Science master's student at the University of Helsinki**. I like building **AI products, tools, and software**, mostly around things I find useful or interesting, and I enjoy experimenting with new ideas and seeing what I can make out of them. On the research side, I mainly work in **computer vision** and am currently exploring **Vision-Language Models (VLMs)**, **Vision-Language-Action (VLA) systems**, and **Agentic AI**. I am always open to **interesting products, research projects, and collaborations**.
+
 
 ---
 
