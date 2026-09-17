@@ -12,7 +12,7 @@
 
 **AI Engineer | Full Stack Developer | Working on LLM/VLM applications**
 
-Sylhet, Bangladesh •
+Helsinki, Finland •
 <a href="https://iftekhar.vercel.app/">
 <img src="https://github.com/iftekhar-ifat/iftekhar/blob/main/public/assets/portfolio-logo.png" height="16" style="vertical-align:middle; text-item:center; margin-right:4px;" />
 Portfolio
@@ -34,22 +34,21 @@ LinkedIn
 
 Hello 👋 I am Iftekhar, an **AI engineer** and **Data Science master's student at the University of Helsinki**. I like building **AI products, tools, and software**, mostly around things I find useful or interesting, and I enjoy experimenting with new ideas and seeing what I can make out of them. On the research side, I mainly work in **computer vision** and am currently exploring **Vision-Language Models (VLMs)**, **Vision-Language-Action (VLA) systems**, and **Agentic AI**. I am always open to **interesting products, research projects, and collaborations**.
 
-
----
-
-## Research & Publications
-
-I work on **computer vision** and **deep learning** problems. My research has been published in venues like **WACV**, **IEEE Access**, and workshops at major conferences. I'm currently exploring how vision models can reason about the world and take actions by combining **vision-language models (VLMs)**, **vision-language-action (VLAs) systems**, and _agentic frameworks_. Particularly interested in building _knowledge-infused_ vision systems that can understand and interact with visual data more intelligently.
-
-**Recent work**: [Iftekhar's Research](https://iftekhar.vercel.app/research/)
-
 ---
 
 ## Projects
 
-I enjoy building applications that combine practical software engineering with AI/ML. I don’t have a fixed tech stack rather I choose tools based on the problem. My focus is on building systems that are performant and reliable.
+I enjoy building applications that combine practical software engineering with a modern AI stack (LLMs, VLMs, Agentic AI). I don’t have a fixed tech stack; rather, I choose tools based on the problem. My focus is on building systems that are performant and reliable.
 
 **Projects**: [Iftekhar's Projects](https://iftekhar.vercel.app/projects)
+
+---
+
+## Research Projects & Publications
+
+I work on **computer vision and AI**, with a focus on turning ideas into practical solutions for real-world problems. I enjoy exploring how different AI techniques can be combined to build systems that are more useful, reliable, and capable. My research has been published in venues such as **WACV** and **IEEE Access**, and I’m currently exploring **Vision-Language Models (VLMs)**, **Vision-Language-Action (VLA) systems**, and **Agentic AI**.
+
+**Recent work**: [Iftekhar's Research](https://iftekhar.vercel.app/research/)
 
 ---
 
